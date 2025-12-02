@@ -1,6 +1,6 @@
 # minishell
 
-This mini-bash executable handles the majority of **Bash POSIX features** like **multi-pipes**, **redirections**, **env management** etc...
+This mini-bash executable handles the majority of **Bash POSIX features** like **multi-pipes**, **redirections** and **env management**.
 To launch the minishell do:
 ```
 $ make
