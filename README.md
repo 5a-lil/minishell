@@ -24,5 +24,5 @@ Also some minishell features:
 - multi-pipes
 - redirections (>, >>, < and <<)
 - closed single and closed double quotes handling
-- 
+
 Have fun now ! 🔥
