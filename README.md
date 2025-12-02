@@ -9,7 +9,7 @@ then just launch the binary:
 ```
 $ ./minishell
 ```
-There are also implementations of some bash commands remade for scratch named builtins:
+There are also implementations of some bash commands remade for scratch named **builtins**:
 - echo with -n option
 - cd
 - pwd
