@@ -1,4 +1,4 @@
-# Mini-Shell
+# Mini_Shell
 
 This mini-bash executable handles the majority of **Bash POSIX features** like **multi-pipes**, **redirections**, **env management** etc...
 
